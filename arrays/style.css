@@ -1,0 +1,18 @@
+*{
+  
+   box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(172, 126, 172);
+}
+.cabecalho{
+    display: flex;
+    justify-content: center;
+}
+.Cadeira{
+    padding-left: 800PX;
+}
+button{
+background-color: rgb(173, 168, 168);
+}
